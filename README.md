@@ -13,6 +13,7 @@ A simple QR Code Generator that converts user input (like URLs, text, or any str
 ## Tech Stack
 Node.js (with qr-image and inquirer package)
 
+![Uploading ezgif-7d25c8702c93a3.gif…]()
 
 
 
